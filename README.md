@@ -79,7 +79,7 @@ endmodule
 ## Full Adder :
 
 ### Logic Symbol:
-![full gadder](https://user-images.githubusercontent.com/93427201/164735920-006d0748-0935-4e4b-aa1b-a15f8f892489.png)
+![Uploading  full adder 111.png…]()
 
 ### RTL Realization:
 ![rtl 2](https://user-images.githubusercontent.com/93427201/164736025-b0d309d4-55f1-4413-84f2-7d3329db5b04.png)
