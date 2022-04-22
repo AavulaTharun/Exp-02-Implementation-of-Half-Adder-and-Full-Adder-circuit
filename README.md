@@ -65,8 +65,7 @@ endmodule
 ## Half Adder:
 
 ### Logic Symbol:
-![half hadder 1](https://user-images.githubusercontent.com/93427201/164735106-74ece2be-4337-4fed-9b2d-3913d7e52da5.png)
-
+![half hadder 111111](https://user-images.githubusercontent.com/93427201/164744189-024e1d34-e990-4df4-a328-b5cce7bf99bd.png)
 ### RTL Realization:
 ![rtl 1](https://user-images.githubusercontent.com/93427201/164735289-3db068ad-4c62-4d8c-a36e-679dd0df467a.png)
 
